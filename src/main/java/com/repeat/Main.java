@@ -5,5 +5,6 @@ package com.repeat;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello my friend");
+        System.out.println("add new features");
     }
 }
